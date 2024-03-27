@@ -1,4 +1,4 @@
-# Unity-LazyGrassGenerator
+# Unity-GrassGenerator
 
 Currently diving into grass generation in Unity. I’ve managed to create a single script that can generate grass on any mesh, leveraging the Job System and Graphics.RenderMeshInstanced.  
 
